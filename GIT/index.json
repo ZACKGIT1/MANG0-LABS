@@ -1,1 +1,7 @@
-
+{
+  "title": "GIT",
+  "description": "THIS IS START OF GIT",
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
