@@ -2,6 +2,6 @@
   "title": "ls",
   "description": "ls",
   "backend": {
-    "imageid": "docker.io/library/nginx:latest"
+    "imageid": "ubuntu"
   }
 }
