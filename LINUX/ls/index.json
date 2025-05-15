@@ -1,6 +1,6 @@
 {
-  "title": "LINUX",
-  "description": "THIS IS START OF LINUX",
+  "title": "ls",
+  "description": "ls",
   "backend": {
     "imageid": "ubuntu"
   }
